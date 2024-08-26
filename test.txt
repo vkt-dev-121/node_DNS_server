@@ -1,0 +1,1 @@
+dig @127.0.0.1 -p5333 vishpa.com
